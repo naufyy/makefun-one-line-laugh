@@ -4,7 +4,7 @@
 
 # makefun-one-line-laugh
 
-An entry for make.fun's "The One-Line Laugh" competition. It is a tiny standard-library Python program that writes one single-sentence joke, about a perfectly built flat-pack wardrobe and the six leftover screws sitting in a jar, to `/output/entry.txt`.
+An entry for make.fun's "The One-Line Laugh" competition. It is a tiny standard-library Python program that writes one single-sentence joke, about a perfectly built flat-pack wardrobe and the six leftover screws sitting in a jar, to `/output/entry.txt`. The line is hard-coded, so every run writes the same 133 characters with no trailing newline; it was picked from the six drafts in `candidates.txt`.
 
 ## Run it
 

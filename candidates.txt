@@ -10,3 +10,8 @@ VERIFICATION (2026-11-23):
 - main.py run twice; both /output/entry.txt reads byte-identical (133 bytes each).
 - valid UTF-8: pass | 133 chars, within 1..200: pass | no trailing newline: pass | single sentence: pass.
 - Judge criteria: recognisable truth (leftover flat-pack screws) is strong, surprise is solid but mild, economy is tight, freshness is the weak point (familiar premise); no clear wording improvement found, line unchanged.
+
+REVIEW (2026-11-23):
+- C1/C6 comparison: submitted line (C2 tightened, 133 chars) still wins on criterion 2, the end surprise. Its turn "like they know something I don't" lands last and changes how "perfectly" reads. C1 gives away its twist mid-line ("out running errands") and C6 ends on a predictable cliché ("find itself"). C1 is the closest rival: equal or better everyday truth and fresher, so a judge weighting those heavily could prefer it.
+- Re-run: /output/entry.txt matches LINE exactly, 133 chars.
+- README: description was accurate; added one sentence saying the output is a fixed 133-char line with no trailing newline, chosen from candidates.txt.
