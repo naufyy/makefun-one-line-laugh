@@ -5,3 +5,8 @@ C4 (111): My houseplant finally started thriving the week I moved it to the one 
 C5 (137): I heard myself say "it's a dry cold" out loud at a bus stop, and somewhere across town my dad felt a deep and unexplained sense of peace.
 C6 (139): The sock I lost in the dryer last spring turned up today inside a coat sleeve, looking rested, like it had needed some time to find itself.
 TITLE: The Six Leftover Screws
+
+VERIFICATION (2026-11-23):
+- main.py run twice; both /output/entry.txt reads byte-identical (133 bytes each).
+- valid UTF-8: pass | 133 chars, within 1..200: pass | no trailing newline: pass | single sentence: pass.
+- Judge criteria: recognisable truth (leftover flat-pack screws) is strong, surprise is solid but mild, economy is tight, freshness is the weak point (familiar premise); no clear wording improvement found, line unchanged.
